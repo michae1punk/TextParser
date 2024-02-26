@@ -1,0 +1,24 @@
+GREATEST MAN IN ALIVE
+Chapter one
+this story about awesome dude that call name is Jack
+Jack's characteristics
+height: 71 inch
+weight: 190 pounds
+Chapter two
+Jack was most famous man in alive
+his fame was greater than his popularity
+Jack's patents
+mosquito net
+x-ray
+internal combustion engine
+
+Структура файла:
+Chapter one--------------2
+  Jack's characteristics--------------4
+    height: 71 inch--------------5
+    weight: 190 pounds--------------6
+Chapter two--------------7
+  Jack's patents--------------10
+    mosquito net--------------11
+    x-ray--------------12
+    internal combustion engine--------------13
